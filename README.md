@@ -14,7 +14,8 @@ The analysis revealed a dominant focus on **JavaScript** (9 repositories), indic
 
 ## 📈 Visualization
 
-*(You would paste the image of your final chart here if you were submitting this to a web page, or simply include the descriptive title)*
+<img width="1000" height="600" alt="github_language_distribution" src="https://github.com/user-attachments/assets/f0441a2b-03bd-41bf-ab52-49df3aef4abb" />
+
 
 ## 🛠️ How to Run the Code
 1.  **Clone the Repository:**
